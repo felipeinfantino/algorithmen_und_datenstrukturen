@@ -1,0 +1,17 @@
+felipe.infantino0,  14.07.2017, 08:05:21
+Korrektur Blatt 10
+
+Aufgabe 1.6
+	Testing complete pipeline: 15/15
+	Testing computeDistance: 10/10
+	Testing computeDistanceMatrix: 15/15
+	Testing computeMatchingPath: 20/20
+	Testing initializeAccDistanceMatrix: 10/10
+Total points for Aufgabe 1.6: 70/70
+
+Aufgabe 1.7
+	Check Close Match: 15/15
+	Check Perfect Match: 15/15
+Total points for Aufgabe 1.7: 30/30
+
+Total points: 100/100
